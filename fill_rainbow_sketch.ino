@@ -1,5 +1,7 @@
 #include "FastLED.h"
 
+//This is the code that I slightly modified for my first arduino LED project, most of the credit goes to Mark Kriegsman
+
 // FastLED "100-lines-of-code" demo reel, showing just a few 
 // of the kinds of animation patterns you can quickly and easily 
 // compose using FastLED.  
